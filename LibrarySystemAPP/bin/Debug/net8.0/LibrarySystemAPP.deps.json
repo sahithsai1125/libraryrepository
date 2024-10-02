@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibrarySystemAPP/1.0.0": {
+        "dependencies": {
+          "LibrarySystemBL": "1.0.0"
+        },
+        "runtime": {
+          "LibrarySystemAPP.dll": {}
+        }
+      },
+      "LibrarySystemBL/1.0.0": {
+        "runtime": {
+          "LibrarySystemBL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibrarySystemAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrarySystemBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

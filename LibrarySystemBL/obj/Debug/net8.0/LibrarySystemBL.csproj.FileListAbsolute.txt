@@ -1,0 +1,11 @@
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\bin\Debug\net8.0\LibrarySystemBL.deps.json
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\bin\Debug\net8.0\LibrarySystemBL.dll
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\bin\Debug\net8.0\LibrarySystemBL.pdb
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.AssemblyInfoInputs.cache
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.AssemblyInfo.cs
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.csproj.CoreCompileInputs.cache
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.dll
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\refint\LibrarySystemBL.dll
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\LibrarySystemBL.pdb
+D:\Genesis\Library\LibrarySystem\LibrarySystemBL\obj\Debug\net8.0\ref\LibrarySystemBL.dll
