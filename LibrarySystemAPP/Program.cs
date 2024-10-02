@@ -7,7 +7,6 @@ class program
     {
         Book b= new Book();
         AudioBook ab= new AudioBook();
-        Console.WriteLine($"LibraryitemID: {b.LibraryitemID}, name: {b.name},BorrowerName: {b.BorrowerName}, BorrowerID: {b.BorrowerID},checkoutindays: {b.checkoutindays}, Author: {b.Author}, noofpages: {b.noofpages}");
         
         Console.WriteLine($"check in date: {b.checkin().ToString()} , check out remaining duration: {b.checkout().ToString()} , Due Date is: {b.getdue().ToString()}");
 
